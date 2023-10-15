@@ -1,4 +1,4 @@
-package com.centroinformacion.entity;
+	package com.centroinformacion.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
